@@ -1,0 +1,1 @@
+This is the modidied version of [Tracking-Anything-with-DEVA](https://github.com/hkchengrex/Tracking-Anything-with-DEVA) for 4D LangSplat. Please follow the [original repository](https://github.com/hkchengrex/Tracking-Anything-with-DEVA) for installation.
